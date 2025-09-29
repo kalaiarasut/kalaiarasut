@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1000&pause=50&color=8000FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=HELLO+THERE;I'M+KALAIYARASU+T" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Kalaiyarasu%20T&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <div align="center">  
