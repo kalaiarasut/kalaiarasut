@@ -23,9 +23,6 @@
 ### 💼 Current Focus:  
 - 🚀 **E-Waste Facility Locator** – Find and manage nearby e-waste recycling facilities  
 - 🏫 **Hostel Management Website** – Complaints, leave requests, attendance & laundry services  
-- 🎙️ **Speech Projects**:  
-   - **Classroom Automatic Speech Recognition (PSE6)** – Transcribe lectures in real-time  
-   - **Speech Emotion Recognition Website** – Detect emotions (happy, sad, angry, neutral) from voice  
 
 - 🛠️ **Tech Arsenal**: React • Node.js • MongoDB • PostgreSQL • Python  
 - 🌱 **Learning**: System Design • DevOps basics • AI/ML  
