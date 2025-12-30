@@ -1,11 +1,11 @@
 <!-- Header -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=200&section=header&text=Kalaiyarasu%20T&fontSize=60&fontColor=A855F7&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Building%20Digital%20Experiences&descSize=16&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=200&section=header&text=Kalaiyarasu%20T&fontSize=60&fontColor=2D3748&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Building%20Digital%20Experiences&descSize=16&descAlignY=55&descAlign=50)
 
 <!-- Animated Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6B9E9E&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%E2%9C%A8+Welcome+to+my+digital+space;Where+ideas+transform+into+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2D3748&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%E2%9C%A8+Welcome+to+my+digital+space;Where+ideas+transform+into+reality" alt="Typing SVG" />
 </a>
 
 <br>
