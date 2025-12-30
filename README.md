@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Kalaiyarasu%20T&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Full-Stack%20Developer%20%E2%80%A2%20Building%20Digital%20Experiences&descSize=14&descAlignY=52&descAlign=50" width="100%" />
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=180&section=header&text=Kalaiyarasu%20T&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20•%20Building%20Digital%20Experiences&descSize=14&descAlignY=60&descAlign=50)
 
 <!-- Animated Subtitle -->
 <a href="https://git.io/typing-svg">
