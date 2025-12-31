@@ -17,7 +17,7 @@
 <a href="https://leetcode.com/u/kalaiyarasu_t/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode"/>
 </a>
-<a href="mailto:kalaiarasut23@gmail.com">
+<a href="mailto:kalaiyarasut2006@gmail.com">
   <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
 </a>
 <a href="https://drive.google.com/file/d/1ngiQssmtopqzdaZjZk9tOm8QSu7xtSFb/view?usp=drive_link">
@@ -33,7 +33,28 @@
 <!-- Wave Divider -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
-<!-- Tech Stack Section -->
+## About Me
+
+<div align="center">
+
+**Software Engineer | AI & Web Development Enthusiast**
+
+*Passionate about building scalable web applications and AI-driven systems,*  
+*with a strong focus on real-world problem solving in education, accessibility, and data-driven platforms.*
+
+<br>
+
+🎓 **B.E in Computer Science** • Kongu Engineering College • 2023 – 2027
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-kalaiyarasut2006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kalaiyarasut2006@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kalaiyarasut.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://kalaiyarasut.vercel.app)
+
+</div>
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -95,11 +116,10 @@ An AI-enhanced online learning platform built for structured courses and smart a
 </div>
 
 <!-- GitHub Stats Section -->
-## GitHub Analytics
+## LeetCode Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kalaiarasut&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="48%"/>
 <img src="https://leetcard.jacoblin.cool/kalaiyarasu_t?ext=contest&theme=dark&border=0&radius=10" alt="LeetCode Stats" width="45%"/>
 
 </div>
