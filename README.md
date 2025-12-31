@@ -26,8 +26,7 @@
 
 <br><br>
 
-<!-- Animated Stats Bar -->
-<img src="https://komarev.com/ghpvc/?username=kalaiarasut&style=for-the-badge&color=1a1b27&labelColor=1a1b27&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 
 </div>
 
@@ -102,14 +101,7 @@ An AI-enhanced online learning platform built for structured courses and smart a
 
 <div align="center">
 
-<!-- Stats Cards Row -->
-<img src="https://github-readme-stats.vercel.app/api?username=kalaiarasut&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kalaiarasut&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="49%"/>
-
-<br><br>
-
-<!-- Languages & LeetCode -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalaiarasut&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="38%"/>
+<img src="https://streak-stats.demolab.com?user=kalaiarasut&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="48%"/>
 <img src="https://leetcard.jacoblin.cool/kalaiyarasu_t?ext=contest&theme=dark&border=0&radius=10" alt="LeetCode Stats" width="45%"/>
 
 </div>
