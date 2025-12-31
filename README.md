@@ -99,7 +99,7 @@ An AI-enhanced online learning platform built for structured courses and smart a
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kalaiarasut&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kalaiarasut&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&v=1" alt="GitHub Streak" width="48%"/>
 <img src="https://leetcard.jacoblin.cool/kalaiyarasu_t?ext=contest&theme=dark&border=0&radius=10" alt="LeetCode Stats" width="45%"/>
 
 </div>
