@@ -20,7 +20,7 @@
 <a href="mailto:kalaiarasut23@gmail.com">
   <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
 </a>
-<a href="https://drive.google.com/file/d/1ZYJngvnBzzJZb2OR5_o4OVoyXk2W5hA0/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1ngiQssmtopqzdaZjZk9tOm8QSu7xtSFb/view?usp=drive_link">
   <img src="https://img.shields.io/badge/-Resume-9146FF?style=for-the-badge&logo=read.cv&logoColor=white&labelColor=9146FF" alt="Resume"/>
 </a>
 
@@ -82,8 +82,6 @@ An AI-enhanced online learning platform built for structured courses and smart a
 
 `React` `TailwindCSS` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
 
-<br>
-
 [![Live Demo](https://img.shields.io/badge/Live_Demo-learnmatehq.vercel.app-58a6ff?style=flat-square)](https://learnmatehq.vercel.app)
 
 </td>
@@ -101,7 +99,7 @@ An AI-enhanced online learning platform built for structured courses and smart a
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kalaiarasut&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kalaiarasut&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="48%"/>
 <img src="https://leetcard.jacoblin.cool/kalaiyarasu_t?ext=contest&theme=dark&border=0&radius=10" alt="LeetCode Stats" width="45%"/>
 
 </div>
