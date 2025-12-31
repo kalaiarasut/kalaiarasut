@@ -48,7 +48,6 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-kalaiyarasut2006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kalaiyarasut2006@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kalaiyarasut.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://kalaiyarasut.vercel.app)
 
 </div>
